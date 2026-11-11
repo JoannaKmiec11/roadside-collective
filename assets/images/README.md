@@ -1,7 +1,7 @@
 # Images
 
-Images cleared for use. Anything whose origin is not recorded lives in
-`unverified/` and must not be published.
+Images cleared for use. Images made with an AI tool live in `ai-generated/`,
+kept separate so nobody has to guess which is which.
 
 | File | What | Origin |
 | --- | --- | --- |

@@ -115,6 +115,16 @@ The dashed orange road line is the brand's spare part. It can be used on its own
 
 These are known gaps, recorded here so nobody assumes they are settled.
 
-1. **The AI disclosure line.** Agreed as a standing rule, wording not yet written. Any AI generated image published by Roadside Collective needs it. See `assets/images/unverified/`.
+1. **The AI disclosure line.** The rule is agreed and the wording is not. Any AI generated image published by Roadside Collective carries it. See `assets/images/ai-generated/`.
+
+   **Draft, for Joanna to approve or rewrite.** Three forms, because one length does not fit a caption, an alt text and a website footer.
+
+   | Where | Wording |
+   | --- | --- |
+   | An Instagram caption, at the end | `Illustration, made with AI. Not a photo of the venue.` |
+   | Inside alt text, after the description | `... This is an AI generated illustration, not a photograph.` |
+   | A website or a poster footer | `Some images on this page are AI generated illustrations. Photographs of our events are real and are taken by us.` |
+
+   Why it is worded this way. It says **illustration**, not "artwork" or "image", because illustration already tells a reader it is not evidence. It says **not a photo of the venue** because that is the specific thing a reader could otherwise be misled about, and a general disclosure that does not name the risk does not remove it. It is plain and short, so it fits the voice, and it goes at the end so it does not open a post with an apology. The site version distinguishes generated images from real event photographs, which protects the photographs, and those are the ones that matter.
 2. **Mission, vision and the five values.** First draft only, and it lives outside this repo.
 3. **Whether "cycling" belongs in the name.** Roadside on its own can read as roadside assistance. This blocks the domain and the Instagram handle.

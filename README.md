@@ -24,7 +24,7 @@ The three things most often got wrong:
 | `assets/logo/` | The logo, as SVG and PNG, for light and dark grounds. See its README for which file to use |
 | `assets/fonts/` | Big Shoulders Display and DM Sans, both SIL OFL 1.1 |
 | `assets/images/` | Images cleared for use |
-| `assets/images/unverified/` | **Do not publish.** Images whose origin is not recorded. See the README in that folder |
+| `assets/images/ai-generated/` | Images made in Google AI Studio. Usable, but they carry the AI disclosure line and must never be captioned as the venue. See the README in that folder |
 | `docs/` | Product requirements for the landing page |
 
 ## The project, in short

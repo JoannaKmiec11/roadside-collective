@@ -1,0 +1,29 @@
+# AI generated images
+
+**Made in Google AI Studio by Joanna, confirmed 11 November 2026.**
+
+| File | Subject | Where it is used now |
+| --- | --- | --- |
+| `pub-watching-1216x684.png` | People watching a screen in a pub | Header image for the Monday Substack article, and on portfolio slide 3 |
+| `landing-hero-1216x684.png` | A landing page hero | Not used |
+| `pub-cosy-1216x684.png` | A pub interior | Not used |
+
+These are usable. They are kept apart from the rest of `assets/images/` so that nobody has to guess which images are generated, because the answer changes what has to go next to them.
+
+## Before any of these is published
+
+1. **Carry the AI disclosure line.** It is a standing Brand Bible rule and its wording is still open. A draft is in BRAND.md.
+2. **Write alt text**, which is a standing rule with no exceptions. Describe the image, and say it is an illustration rather than a photograph of the venue.
+3. **Do not caption it as the venue.** The pub is not booked. An image that reads as a photograph of the room, next to a date and a street, is a claim about a real place.
+
+Google applies an invisible SynthID watermark to images generated with its own models, so these are detectable as generated whether or not we say so. That is an argument for disclosing rather than a substitute for it.
+
+## Where the line is
+
+The site and the posters exist to tell a stranger what the room will be like on the night, so they can decide whether to walk into a pub alone. That makes the honest use of these images narrow.
+
+**Fine:** an illustrative header on an explainer article about cyclo-cross, which is what `pub-watching` is doing now. It sets a mood for a piece about a sport. It is not pretending to be anywhere.
+
+**Not fine:** the hero of the landing page, directly above a date, a venue and a signup button. In that position the image is answering "what will the room be like", and a generated answer to that question is a misleading one. The content plan already says this about the Thursday post: a real photograph of the real room, taken on a phone when the booking is confirmed, beats anything generated.
+
+**So `landing-hero-1216x684.png` is deliberately unused.** The landing page is specified with no hero image at all until there is a photograph of the actual pub. That is a decision, not an oversight.
