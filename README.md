@@ -12,7 +12,7 @@ This repository is the start of the Roadside Collective website. Right now it ho
 
 The three things most often got wrong:
 
-1. **Flame orange `#FF6B35` never goes on cream or white.** It fails WCAG AA at roughly 2.9:1. On a cream section, use orange only as a solid block with ink text on it, the way the logo does, or use purple for the accent instead.
+1. **Flame orange `#FF6B35` never goes on cream or white.** It fails WCAG AA at 2.65:1. On a cream section, use orange only as a solid block with ink text on it, the way the logo does, or use purple for the accent instead.
 2. **The logo is never redesigned, only converted.** Use the files in `assets/logo/`. Do not generate a new one, and do not produce "something similar".
 3. **No em dashes or en dashes** in any copy. Commas or full stops.
 

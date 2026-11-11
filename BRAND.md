@@ -37,7 +37,7 @@ Four colours. Keep to them so every poster, post and page matches.
 
 ### The one rule that is never broken
 
-**Never put flame orange on cream, or on white.** It is roughly 2.9:1 and it fails WCAG AA for text. This is the single easiest brand mistake to make, because orange on cream looks warm and inviting in a thumbnail and is unreadable at body size.
+**Never put flame orange on cream, or on white.** It is 2.65:1 and it fails WCAG AA for text. This is the single easiest brand mistake to make, because orange on cream looks warm and inviting in a thumbnail and is unreadable at body size.
 
 What to do instead, when a cream section needs an orange accent:
 
