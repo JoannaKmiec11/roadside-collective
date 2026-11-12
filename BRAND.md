@@ -22,6 +22,16 @@ A not for profit community in Brighton. We host watch parties in local pubs for 
 
 **Positioning.** Cycling Weekly, Cyclingnews, Rouleur, British Cycling, Strava and Zwift all report the racing or help you ride. None of them bring people together in person to watch women race.
 
+**The name, and the rule that goes with it.** Roadside Collective, settled 12 November 2026. No "cycling" in the name.
+
+"Roadside" names where the fans stand, which is why the logo is called "Banner at the roadside". It describes the people rather than the venue, so it survives the pub and still fits when the meetups go to real races.
+
+**The name never appears naked.** On its own, "Roadside" can read as roadside assistance. The fix is the descriptor, which always travels with it:
+
+> Roadside Collective. Watch parties in Brighton for women's pro cycling.
+
+Use it in the Instagram bio, the page title, the Eventbrite organiser name, the email footer and the flyer. Anywhere the name introduces itself to somebody new, the descriptor is next to it.
+
 **Who it is for.** Everyone. This matters because the project used to be something else. An earlier version was a community for women, trans and non binary people who rode together. Roadside Collective is open to everyone, men included, and it does not organise rides. Do not reintroduce the old wording.
 
 ## Colours
@@ -127,4 +137,4 @@ These are known gaps, recorded here so nobody assumes they are settled.
 
    Why it is worded this way. It says **illustration**, not "artwork" or "image", because illustration already tells a reader it is not evidence. It says **not a photo of the venue** because that is the specific thing a reader could otherwise be misled about, and a general disclosure that does not name the risk does not remove it. It is plain and short, so it fits the voice, and it goes at the end so it does not open a post with an apology. The site version distinguishes generated images from real event photographs, which protects the photographs, and those are the ones that matter.
 2. **Mission, vision and the five values.** First draft only, and it lives outside this repo.
-3. **Whether "cycling" belongs in the name.** Roadside on its own can read as roadside assistance. This blocks the domain and the Instagram handle.
+3. ~~Whether "cycling" belongs in the name.~~ **Closed 12 November 2026. The name stays Roadside Collective.**

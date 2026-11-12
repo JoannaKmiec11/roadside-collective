@@ -529,6 +529,6 @@ The previous requirements document, `Roadside Collective/Launch Campaign/Website
 | Platform "still open, and it blocks the build" | Lovable, decided | The open question is answered |
 | Recommendation: hand built HTML | Lovable generates an editable codebase | Same control, a week less work, and it is the AI learning the project is for |
 | P1.3 "a photograph of a real room" | Unchanged, plus an explicit rule that **no hero image ships until it exists** | Generated pub images exist and using one above a date and a venue would be a claim about a real place |
-| Open question: "is cycling going into the brand name" | Still open, still blocking the domain | Not this document's to settle |
+| Open question: "is cycling going into the brand name" | **Closed 12 November 2026, the name stays Roadside Collective** | It was blocking the domain and the handle, and the flyer prints on 28 November. The reasoning is in BRAND.md |
 
 **Not carried across, deliberately:** the four option platform comparison table, which was decision making rather than requirements, and is preserved in the earlier file.
