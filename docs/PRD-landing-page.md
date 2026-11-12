@@ -402,7 +402,9 @@ The worked example, Tuesday 8 December, the cyclo-cross explainer. Full version 
 3. **Lawful basis is consent**, given by submitting the form, with the purpose stated beside it and one click unsubscribe on every email.
 4. **The door app records attendance, never contact details**, which is a deliberate schema decision so it cannot become a second copy of the list.
 
-**The data gap this product does not close.** Someone who sees a bike shop poster and types the URL arrives as direct traffic, indistinguishable from an Instagram tap. Poster attribution is accepted as unanswerable in v1, and going from no answer to a rough answer is the win.
+**The data gap this product partly closes, revised 12 November 2026.** This originally said poster attribution was unanswerable in v1. That was too pessimistic. The Eventbrite URL takes an `aff` parameter with any value, so each channel carries its own: `?aff=instagram`, `?aff=substack`, `?aff=website`, `?aff=poster`, `?aff=gravel`. Eventbrite reports the value per order.
+
+So a QR code on the flyer and the shop posters carrying `?aff=poster` does answer the question. Someone who reads a poster and types the URL by hand still arrives untagged, so the number is a floor rather than the whole truth. A floor beats no answer, which is what the goal asked for.
 
 # 6. Challenges
 
@@ -449,7 +451,7 @@ The mitigation is cheap and it is in the timeline: **two people who are not invo
 | Eventbrite signups by Saturday night | 30 | Eventbrite |
 | Through the door on the day | 20 | The door app |
 | Attendees who say the website is how they found it | 5 | Ask them on the night |
-| Visits attributable to the bike shop posters | any measurable number at all | Analytics referrer, and direct traffic in the shop round week |
+| Signups attributable to the bike shop posters | any measurable number at all | Eventbrite affiliate report, `aff=poster`, carried by the QR code on the poster |
 
 The last one is deliberately vague, because it is the question that currently has no answer at all. Going from no answer to a rough answer is the win.
 
