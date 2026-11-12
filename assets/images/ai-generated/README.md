@@ -8,6 +8,8 @@
 | `landing-hero-1216x684.png` | A landing page hero | Not used |
 | `pub-cosy-1216x684.png` | A pub interior | Not used |
 | `founder-placeholder-800x800.png` | A portrait of a woman, standing in for Joanna | The "Who is behind this" section, **as a labelled placeholder** |
+| `pub-tv-centred-1216x684.png` | A pub interior, people facing a screen showing a bike race | **The hero**, right hand panel |
+| `pub-tv-centred-hero-square-900.png` | The same, cut square for the hero panel | The hero on wider screens |
 
 ## The founder portrait, added 12 November 2026
 
@@ -26,6 +28,16 @@ So it ships **only** with:
 Cropped square from a 768 x 1365 original. The crop also removes the generator's sparkle badge from the bottom corner, which is a detail worth noticing: **the badge was the only visible sign it was generated, and cropping removed it.** That is exactly why the written disclosure has to carry the weight instead.
 
 These are usable. They are kept apart from the rest of `assets/images/` so that nobody has to guess which images are generated, because the answer changes what has to go next to them.
+
+## The hero image, added 12 November 2026
+
+`pub-tv-centred-` is the clean version of the pub scene, with no cream card baked into it. The Canva composite with the card, `landing-hero-1216x684.png`, is **not** the one to use on the site, because the site draws its own text.
+
+It is the "TV centred" variant rather than `pub-watching`, because the screen sits where the oval mirror used to be, so every gaze in the room converges on it instead of competing with a mirror.
+
+**Why this placement is acceptable where the earlier one was not.** The hero copy beside it says "We meet in Brighton pubs" and carries no date and no venue. The image is setting a scene, not claiming to be a specific room on a specific Sunday. The version that was rejected sat directly above a date, a venue and a signup button, where it would have been answering "what will the room be like on the night".
+
+It still ships with the disclosure line, and it still comes down when there is a photograph of the real pub.
 
 ## Before any of these is published
 
