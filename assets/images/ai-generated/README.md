@@ -7,6 +7,23 @@
 | `pub-watching-1216x684.png` | People watching a screen in a pub | Header image for the Monday Substack article, and on portfolio slide 3 |
 | `landing-hero-1216x684.png` | A landing page hero | Not used |
 | `pub-cosy-1216x684.png` | A pub interior | Not used |
+| `founder-placeholder-800x800.png` | A portrait of a woman, standing in for Joanna | The "Who is behind this" section, **as a labelled placeholder** |
+
+## The founder portrait, added 12 November 2026
+
+This one needs saying plainly because it is the highest risk image on the site.
+
+It is **AI generated and it is not Joanna.** It is in place for the course submission on 13 November 2026, with the disclosure line visible next to it, and **a real photograph replaces it before the site is promoted to anybody.**
+
+Why it matters more than the pub images: that section exists to answer "will I be the only one there who does not know anyone", and the answer is meant to be "no, Joanna will be at the table by the door, and here she is". A face that is not hers is a false answer to the question the page was built to answer. Somebody turns up on 13 December and meets a different person.
+
+So it ships **only** with:
+
+1. The disclosure line next to it, not in a footer. "Placeholder portrait, AI generated. A real photograph replaces it before launch."
+2. Alt text saying the same thing.
+3. A hard stop: it does not survive the site going public, the flyer, Instagram, or Eventbrite's organiser profile.
+
+Cropped square from a 768 x 1365 original. The crop also removes the generator's sparkle badge from the bottom corner, which is a detail worth noticing: **the badge was the only visible sign it was generated, and cropping removed it.** That is exactly why the written disclosure has to carry the weight instead.
 
 These are usable. They are kept apart from the rest of `assets/images/` so that nobody has to guess which images are generated, because the answer changes what has to go next to them.
 
