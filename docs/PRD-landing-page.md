@@ -73,7 +73,7 @@ Favourable, with one hard dependency.
 - Women's professional cycling is growing in coverage and the audience is growing with it, but the broadcast is still fragmented across subscriptions, which is a barrier for a casual viewer and an argument for watching somewhere that already has the subscription.
 - Brighton has a dense pub trade with sports subscriptions, an active cycling population and a strong appetite for local events, which is why the local hashtags do more work than the cycling ones.
 - Grassroots free events lose roughly a third of signups between the form and the night, which is why thirty signups are needed for twenty attendees.
-- **The dependency:** who holds UK broadcast rights for the 2026/27 Cyclo-cross World Cup decides which pubs can legally show it at all. This is the largest unresolved risk in the entire project and it sits outside this product.
+- **The dependency, now resolved.** Who holds UK broadcast rights for the 2026/27 Cyclo-cross World Cup decided which pubs could legally show it at all, and it was the largest unresolved risk in the project from October. **Confirmed on 12 November 2026.** The Glasgow round is also verified: Kelvingrove Park, Sunday 13 December 2026, the first ever Scottish round of the World Cup and the first in Britain since Milton Keynes in 2014. A home round is a better draw than a Belgian one, so this is a small upgrade to the proposition as well as a risk closing.
 
 ## Technology analysis
 
@@ -300,7 +300,8 @@ High level. A design document is not needed, because there is no server.
 
 | Risk | Likelihood | Impact | Mitigation |
 | --- | --- | --- | --- |
-| **UK broadcast rights make a legal screening impossible** | Medium | **Fatal to the event** | Ask every pub about its sports subscription before anything else. This is the first question, not a detail. Sits outside this product and nothing here can mitigate it |
+| ~~UK broadcast rights make a legal screening impossible~~ **Closed 12 Nov 2026** | n/a | was fatal | Confirmed. This was the first question asked of every pub and it is now answered |
+| **The elite women's race start time is wrong** | Medium | Moderate. People arrive and watch the wrong race | The published Glasgow timings are gates at 9:00 or 10:00 for the whole day of racing. The 12:40 in the copy has not been checked against the official timetable. Confirm it before publishing. It is one edit in the config file, so the cost of being wrong is low and the cost of not checking is a room watching juniors |
 | **The pub is not booked in time** | Medium | Severe. The flyer cannot print | The page is written entirely against placeholders, so it can go live and be correct without a venue, showing the email signup in place of the event |
 | **The email field fails silently again** | Low | **Fatal to the product** | End to end test with an address Joanna does not own, before launch and again after the domain is connected. This is the single acceptance test |
 | **Lovable produces something off brand** | Medium | Moderate, costs a day | The brand is given as files, the prohibitions are explicit, and a contrast audit is one of the six follow up prompts |
